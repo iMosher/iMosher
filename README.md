@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iMosher
-- 👀 I’m interested in sorting acorns by shape
-- 🌱 I’m currently learning how to speak Latin
-- 💞️ I’m looking to collaborate on government policy
+- 👋 Hi, I’m @iMosher (Ian)
+- 👀 I’m interested in data analysis and game design
+- 🌱 I’m currently learning C++ and SQL
+- 💞️ I’m looking to collaborate on anything, just let me know!
 - 📫 How to reach me - Discord
 
 <!---
